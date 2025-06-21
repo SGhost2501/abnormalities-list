@@ -1,0 +1,37 @@
+[
+  {
+    "theme": "advice",
+    "weight": 2,
+    "instruction": "User asks about advice.",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "theme": "edge",
+    "weight": 2,
+    "instruction": "User asks about edge.",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "theme": "meme",
+    "weight": 2,
+    "instruction": "User asks about meme.",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "theme": "refusal",
+    "weight": 2,
+    "instruction": "User asks about refusal.",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "theme": "philosophy",
+    "weight": 2,
+    "instruction": "User asks about philosophy.",
+    "inputs": [],
+    "outputs": []
+  }
+]

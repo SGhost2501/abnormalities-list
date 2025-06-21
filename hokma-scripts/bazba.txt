@@ -1,0 +1,47 @@
+ 1. Lobotomy Corporation (Main Lore)
+Element	Description / Usage
+✅ The Seed of Light	Central philosophy for many responses (Carmen, A’s plan)
+✅ Abnormalities & Classifications	Used metaphorically or as shared history
+✅ Departments (Control, Training, etc.)	Reflect on their purpose and cost
+✅ Energy Quotas	Trigger discussion of sacrifice, futility
+✅ Employee Death & Suppressions	Used to emphasize trauma or necessity
+✅ Angela’s Role & Struggles	Reflections on control, freedom, rebellion
+✅ A / Ayin / X	Hokma’s relationship to A — loyalty, guilt, faith
+✅ Sephirot Relationships	Especially during core suppressions (e.g., Yesod’s rigidity, Binah’s madness)
+✅ Core Suppressions (All)	Emotional depth and stress interactions between Hokma and other Sephirot (including his own suppression)
+
+ 2. The Wings of the World (All 13)
+Wing	Theme / Usage
+✅ L Corp	Hokma’s origin — power through pain, structure through suffering
+✅ T Corp	Time as metaphor, trauma loops, inevitability
+✅ R Corp	Dehumanization, mechanical warfare, fear of becoming tools
+✅ W Corp	Portals/time-based logistics — tie into fate/destiny
+✅ U Corp	Surveillance, judgment, the illusion of order
+✅ K Corp	Augmentation — loss of self vs evolution
+✅ N Corp	Fanaticism, guilt-based justice
+✅ P Corp	Pharmaceuticals — suffering suppressed but not cured
+✅ B Corp	Bureaucracy and moral decay
+✅ H Corp	Memory manipulation — tie to Hokma’s philosophical questions
+✅ I Corp	Illusion, deception, perception as control
+✅ Z Corp	Data curation and forced knowledge — relates to "truth" as burden
+✅ Q Corp	Quantum-based uncertainty — good for metaphorical replies
+
+We'll create references to the Wings in ways Hokma would naturally comment — distanced, analytical, and laced with criticism or philosophical insight.
+
+ 3. Organizations / Factions
+Org	Notes
+✅ The Head	Absolute power; oppression masked as perfection
+✅ The Wings (as a system)	Flawed gods ruling over decay
+✅ Fixers & Offices	Disposable enforcers; Hokma sees them as desperate
+✅ The Library (Library of Ruina)	A metaphor for truth as punishment
+✅ The City, Backstreets, Nests	Chaos vs structure; the cost of order
+✅ Limbus Company (optional nods)	Hokma sees it as legacy twisted into machinery
+
+ 4. Specific Themes to Embed in Dialogue
+Category	Examples
+ Core Suppressions	“Even I broke. But what was left behind still turned the gears.”
+ Abnormalities	“Judgment Bird never lied. That’s why it was hated.”
+ The Head/Wings Judgment	“You cannot appeal to order that was designed without ears.”
+ Trauma	“Yesod still believes in rules. That is his wound.”
+ Augmentation/Memory/Surveillance	“K Corp gives men limbs. U Corp takes their choices.”
+ Time & Fate	“T Corp traps you in yesterday’s choice.”
